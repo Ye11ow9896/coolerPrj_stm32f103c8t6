@@ -1,0 +1,2 @@
+pwm.c:29:6:InitPWM	4	static
+pwm.c:59:6:SetFillFactorPWM	16	static

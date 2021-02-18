@@ -1,0 +1,2 @@
+sysInit.c:6:6:InitRCC	4	static
+sysInit.c:35:6:InitGPIO	4	static

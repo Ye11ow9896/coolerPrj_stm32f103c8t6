@@ -1,0 +1,2 @@
+adc.c:25:6:InitADC_1	4	static
+adc.c:49:7:GetValueADC	24	static
