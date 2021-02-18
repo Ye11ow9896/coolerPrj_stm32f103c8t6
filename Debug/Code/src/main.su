@@ -1,8 +1,8 @@
 core_cm3.h:1639:22:__NVIC_SetPriority	16	static
 core_cm3.h:1834:26:SysTick_Config	16	static
 main.c:33:5:main	32	static
-main.c:93:6:delay_ms	24	static
-main.c:112:7:GetVoltageFromSensor	40	static
-main.c:146:7:GetTemperatureFromSensor	40	static
-main.c:170:6:SysTick_Handler	4	static
-main.c:175:6:USART1_IRQHandler	4	static
+main.c:92:6:delay_ms	24	static
+main.c:111:7:GetVoltageFromSensor	40	static
+main.c:145:7:GetTemperatureFromSensor	40	static
+main.c:169:6:SysTick_Handler	4	static
+main.c:174:6:USART1_IRQHandler	4	static

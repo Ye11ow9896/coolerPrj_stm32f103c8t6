@@ -1,0 +1,43 @@
+!SESSION 2021-02-18 21:35:29.940 -----------------------------------------------
+eclipse.buildId=Version 1.5.1
+java.version=1.8.0_272
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-02-18 21:36:30.759
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-02-18 21:36:31.079
+!MESSAGE Log4j initialized with config file D:\Programming\Cube\coolerPrj_stm32f103c8t6\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-02-18 21:36:39.362
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-02-18 21:36:41.182
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-02-18 21:38:37.615
+!MESSAGE Indexed 'cooler_stm32f103' (2 sources, 8 headers) in 3,44 sec: 718 declarations; 998 references; 3 unresolved inclusions; 22 syntax errors; 577 unresolved names (25 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-02-18 21:38:47.565
+!MESSAGE Indexed 'PID_stm32f103C8' (22 sources, 99 headers) in 9,75 sec: 7 694 declarations; 40 118 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0,39 %)
+!SESSION 2021-02-18 21:39:23.454 -----------------------------------------------
+eclipse.buildId=Version 1.5.1
+java.version=1.8.0_272
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  D:\Programming\Cube\coolerPrj_stm32f103c8t6\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\Programming\Cube\coolerPrj_stm32f103c8t6\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-02-18 21:40:47.908
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-02-18 21:40:48.041
+!MESSAGE Log4j initialized with config file D:\Programming\Cube\coolerPrj_stm32f103c8t6\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-02-18 21:41:02.323
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-02-18 21:41:28.548
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties

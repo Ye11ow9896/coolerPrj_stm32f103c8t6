@@ -54,8 +54,7 @@ int main(void)
 			ADCVal =  GetValueADC(20);
 			VoltageVal = GetVoltageFromSensor(20, ADCVal);
 			TempValue = GetTemperatureFromSensor(5, VoltageVal);
-			PidValue = PID_Regulation(100, 50, 50,
-				GetTemperatureFromSensor(20, GetValueADC(20)), reqTemp);
+			PidValue = PID_Regulation(100, 50, 50, TempValue, reqTemp);
 
 			if(PidValue >= 300 && PidValue >= 5000)
 				PidValue = PidValue/50;

@@ -1,3 +1,5 @@
+".metadata/.plugins/org.eclipse.cdt.make.core/specs.o"
+".metadata/.plugins/org.eclipse.cdt.managedbuilder.core/spec.o"
 "CMSIS/src/system_stm32f1xx.o"
 "Code/src/adc.o"
 "Code/src/main.o"
